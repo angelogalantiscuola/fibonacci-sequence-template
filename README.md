@@ -9,7 +9,10 @@ Creare la funzione ```iterative_fibonacci(n:int) -> int``` che calcola il numero
 Creare la funzione ```recursive_fibonacci(n:int) -> int``` che calcola il numero in modo ricorsivo.
 
 es. 
-```iterative_fibonacci(1) -> 0```
-```iterative_fibonacci(2) -> 1```
-```iterative_fibonacci(4) -> 2```
-```iterative_fibonacci(7) -> 8```
+
+```
+iterative_fibonacci(1) -> 0
+iterative_fibonacci(2) -> 1
+iterative_fibonacci(4) -> 2
+iterative_fibonacci(7) -> 8
+```
